@@ -3,10 +3,14 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
+*cmd
+*demo
+*.gitattributes
+*.mvn
 ### STS ###
 .apt_generated
 .classpath
+*mvnw
 .factorypath
 .project
 .settings
